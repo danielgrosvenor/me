@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'http://daniel.test',
     'production' => false,
     'siteName' => 'Daniel Grosvenor',
     'siteDescription' => 'My personal site',
