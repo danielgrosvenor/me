@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: We Are Safe
-date: 2019-12-7
+date: 2019-12-9
 description: A quick post to let everyone know we are safe
 featured: true
 cover_image: /assets/images/jens-johnsson-qFYBki6u3Ik-unsplash.jpg
