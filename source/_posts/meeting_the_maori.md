@@ -5,8 +5,8 @@ title: Meeting the Maori
 date: 2019-12-21
 description: The Maori Cultural Experience in Rotorua
 featured: true
-cover_image: /assets/images/jens-johnsson-qFYBki6u3Ik-unsplash.jpg
-cover_attribution: Photo by <a href="https://unsplash.com/@jens_johnsson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jens Johnsson on Unsplash</a>
+cover_image: /assets/images/hangi.jpg
+cover_attribution: Hangi meal coming out of the ground.
 categories: [new zealand]
 ---
 I went to Rotorua and it had a lot of geothermal activity so it smelled like sulfur. I went to a naturally fed hot tub and pool. At the end of my visit I went to a Maori cultural experience.
