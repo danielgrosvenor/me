@@ -2,11 +2,11 @@
 extends: _layouts.post
 section: content
 title: Essential Maori Phrases
-date: 2019-12-18
+date: 2019-12-23
 description: The role of the Maori language in New Zealand Life 
 featured: true
-cover_image: /assets/images/markus-spiske-WSrVetqvfLY-unsplash.jpg
-cover_attribution: Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske on Unsplash</a>
+cover_image: /assets/images/choose_language.jpg
+cover_attribution: Language choice prompt on an interactive display at Te Papa (National Museum of New Zealand) in Wellington
 categories: [new zealand]
 ---
 
